@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "td301d485h")(type "Altium Designer")(uri "D:/projects/modbus_protocol/learn_modbus_protocol/hardware/lib/td301d485h/TDH5(3)01D485H.PcbLib")(options "")(descr ""))
+  (lib (name "audjck3")(type "KiCad")(uri "D:/projects/modbus_protocol/learn_modbus_protocol/hardware/lib/audiojack3mm")(options "")(descr ""))
+  (lib (name "w5500_lite")(type "KiCad")(uri "D:/projects/modbus_protocol/learn_modbus_protocol/hardware/lib/ws5500_lite")(options "")(descr ""))
+  (lib (name "xiao_ble")(type "KiCad")(uri "D:/projects/modbus_protocol/learn_modbus_protocol/hardware/lib/xiao_ble")(options "")(descr ""))
+)
