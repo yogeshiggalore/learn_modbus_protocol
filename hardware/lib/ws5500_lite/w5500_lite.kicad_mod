@@ -188,46 +188,6 @@
 		(uuid "08ee16f6-f9d1-442d-b6b7-af477c5857d6")
 	)
 	(fp_line
-		(start 0 0)
-		(end 23.1 0)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Margin")
-		(uuid "bea8a7e4-77e7-410e-ba7e-c5bc9d154768")
-	)
-	(fp_line
-		(start 0 15.5)
-		(end 0 0)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Margin")
-		(uuid "97978b63-e36b-4f58-b800-36c53880b029")
-	)
-	(fp_line
-		(start 23.1 0)
-		(end 23.1 15.5)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Margin")
-		(uuid "667ec3b8-8c6c-4d21-be7d-5a7dcd9997b4")
-	)
-	(fp_line
-		(start 23.1 15.5)
-		(end 0 15.5)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Margin")
-		(uuid "f3d3f96a-d186-4c9d-a7a5-2d1c19d24691")
-	)
-	(fp_line
 		(start 0.1 0.635)
 		(end 0.735 0)
 		(stroke
@@ -348,39 +308,6 @@
 				(thickness 0.15)
 			)
 		)
-	)
-	(dimension
-		(type aligned)
-		(layer "F.SilkS")
-		(uuid "5de788ef-de45-4e29-a9a1-e27b329b6db6")
-		(pts
-			(xy 0 -10.1) (xy 23 -10.1)
-		)
-		(height 28.7)
-		(gr_text "23.0000 mm"
-			(at 11.5 17.5 0)
-			(layer "F.SilkS")
-			(uuid "5de788ef-de45-4e29-a9a1-e27b329b6db6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.1)
-				)
-			)
-		)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 1)
-			(precision 4)
-		)
-		(style
-			(thickness 0.1)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(extension_height 0.58642)
-			(extension_offset 0.5) keep_text_aligned)
 	)
 	(pad "1" thru_hole rect
 		(at 1.37 1.27)
